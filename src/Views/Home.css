@@ -1,0 +1,26 @@
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+
+
+#Home-poster-text{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+#system-solution{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+#System-solution-text{
+    font-family:  'Montserrat' , sans-serif ;
+}
+
+.box1{
+    margin: 0;
+    padding: 0;
+}
